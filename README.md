@@ -77,8 +77,12 @@ python manage.py createsuperuser
 python manage.py runserver
 
 
-----------------------------------👩‍💻 Developer-------------------------------------------
+----------------------------------👩‍💻 Developer------------------------------------
+
+
+
 Sakshi Poddar
+
 Aspiring Data Analyst and Developer with expertise in:
 
 Python programming
